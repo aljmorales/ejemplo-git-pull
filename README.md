@@ -1,2 +1,2 @@
-# Repositorio to git pull
+# Repositorio to git pull (edit uno)
 Para practicar
